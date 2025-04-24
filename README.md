@@ -23,7 +23,7 @@ This is a simple weather forecast project built with React, using the OpenWeathe
 
 ## 📷 Preview
 
-![Weather App Preview](./assets/WeatherApp.png)
+![Weather App Preview](./src/assets/WeatherApp.png)
 
 ## 💻 Como Rodar o Projeto
 
